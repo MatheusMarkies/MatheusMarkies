@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats-ruby-eight-77.vercel.app/api/top-langs?username=matheusmarkies&include_orgs=true&show_icons=true&locale=en&layout=compact" alt="matheusmarkies" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-ruby-eight-77.vercel.app/api?username=matheusmarkies&include_orgs=true&show_icons=true&locale=en" alt="matheusmarkies" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-ruby-eight-77.vercel.app/api?username=matheusmarkies&include_orgs=true&include_all_commits=true&show_icons=true&locale=en" alt="matheusmarkies" /></p>
