@@ -45,5 +45,6 @@
 </div>
 
 ###
-
-<p><img align="center" src="https://github-readme-flame.vercel.app/api/top-langs?username=matheusmarkies&include_orgs=true&show_icons=true&theme=transparent&locale=en&layout=compact" alt="matheusmarkies" /></p>
+<div align="center">
+<p><img align="center" src="https://github-readme-flame.vercel.app/api/top-langs?username=matheusmarkies&include_orgs=true&show_icons=true&theme=dark&locale=en&layout=compact" alt="matheusmarkies" /></p>
+</div>
